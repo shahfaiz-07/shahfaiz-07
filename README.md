@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on Full Stack Web Development and Machine Learning<br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Web Programming<br>📫 How to reach me **hussainfaizaan07@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+#Connect with me
 <p align="left">
 <a href="https://codepen.io/s-faizaan-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="s-faizaan-hussain" height="30" width="40" /></a>
 <a href="https://dev.to/s_faizaanhussain_590a185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="s_faizaanhussain_590a185" height="30" width="40" /></a>
