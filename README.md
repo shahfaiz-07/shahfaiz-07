@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm S Faizaan Hussain</h1>
 <h3 align="center">Passionate Fullstack Developer from India | Building Innovative Web Solutions</h3>
 
-- 🔭 I’m currently working on [Edypros - Edtech Platform](https://github.com/shahfaiz-07/Edypros_Frontend)
-
-- 🌱 I’m currently learning **Next.js, Machine Learning**
-
-- 📫 How to reach me **hussainfaizaan07@gmail.com**
+🔭 I’m currently working on Full Stack Web Development and Machine Learning<br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Web Programming<br>📫 How to reach me **hussainfaizaan07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
