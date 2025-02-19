@@ -7,6 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/shahfaiz_96" target="blank"><img src="https://img.shields.io/twitter/follow/shahfaiz_96?logo=twitter&style=for-the-badge" alt="shahfaiz_96" /></a> </p>
 
+- 🔭 I’m currently working on **Machine Learning and DSA**
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on **Full Stack Projects**
+
+- 🤝 I’m looking for help with **Web Programming and DSA**
+
 - 💬 Ask me about **Web Programming, React, Next.js, Backend Development**
 
 - 📫 How to reach me **hussainfaizaan07@gmail.com**
